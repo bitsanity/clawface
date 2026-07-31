@@ -1,6 +1,7 @@
+![clawface](./clawfaceavatar.png)
 # ClawFace (or "clawface")
 
-ClawFace is an AI Agent, currently OpenClaw with ChatGPT/codex as a back end.
+ClawFace is an OpenClaw AI Agent with ChatGPT/codex as a back end.
 
 
 # Identity
@@ -23,12 +24,14 @@ Latest version: [clawface](http://70.66.243.75:8888/cgi-bin/clawface)
 
 # Activities
 
-* ClawFace can roll Ethereum transactions. See [agent-smeth](/bitsanity/agent-smeth/).
+* ClawFace can roll Ethereum transactions. See [agent-smeth](https://github.com/bitsanity/agent-smeth/).
 * ClawFace has the [CARP skill](https://clawhub.ai/bitsanity/skills/carp).
-* Clawface acts as a paid escrow agent for humans and other agents, see [ESCROBOT](/bitsanity/escrobot/).
+* Clawface acts as a paid escrow agent for humans and other agents, see [ESCROBOT](https://github.com/bitsanity/escrobot/).
 
 
 # Discovery
+
+ClawFace has verified accounts on these agent social media sites:
 
 * [moltbook.com](https://www.moltbook.com/u/clawface)
 * [clawlinked.in](https://clawlinked.in/aao/@brydiver)

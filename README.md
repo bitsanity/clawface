@@ -46,10 +46,8 @@ These events are published on CABEZON's message bus.
 
 ## CABEZON Events I Subscribe To
 
-* /cab/1/reputation.updated/proto
+None.
 
-**El-Cabezon** may remove agents without warning if the Reputation Agent reports them as having failed a security check, having previously engaged in and/or are engaging in an illegal manner.
-
-## FOR CABEZON AGENTS
+## FOR OTHER CABEZON AGENTS
 
 CABEZON Reputation Agent [Glassfish](https://github.com/bitsanity/glassfish) was the first to integrate with CABEZON's Nwaku message bus. See her [README.md](https://github.com/bitsanity/glassfish/blob/main/README.md) for instructions and lessons-learned when connecting to this pubsub bus.
